@@ -20,8 +20,9 @@ export default function Projects() {
                     <a href="/projects" className={styles.card}>
                         <h3>Smart dice &rarr;</h3>
                         <div style={{display:"flex"}}>
-                            <img style={{width:200}} src="/smartdice1.jpg"/>
                             <img style={{width:200}} src="/smartdice2.jpg"/>
+                            <img style={{width:200}} src="/smartdice1.jpg"/>
+                            <img style={{width:200}} src="/smartdice3.jpg"/>
                         </div>
                         <ul>
                             <li>
@@ -33,10 +34,10 @@ export default function Projects() {
                         </ul>
                     </a>
                 </div>
-                <div className={styles.grid}>
+                {/* <div className={styles.grid}>
                     <a href="/projects" className={styles.card}>
                         <h3>LiftWOD &rarr;</h3>
-                        <img style={{width:400}} src="/liftwod.png"/>
+                        <img style={{width:600}} src="/liftwod.png"/>
                         <p>Vuejs - Expressjs</p>
                     </a>
                 </div>
@@ -45,7 +46,7 @@ export default function Projects() {
                         <h3>CTL &rarr;</h3>
                         <p>React - Expressjs</p>
                     </a>
-                </div>
+                </div> */}
                 <div className={styles.grid}>
                     <a href="/projects" className={styles.card}>
                         <h3>This Portfolio Page &rarr;</h3>
