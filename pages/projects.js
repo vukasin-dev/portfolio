@@ -49,7 +49,16 @@ export default function Projects() {
                 <div className={styles.grid}>
                     <a href="/projects" className={styles.card}>
                         <h3>This Portfolio Page &rarr;</h3>
-                        <p>Next.js - React</p>
+                        <ul>
+                            <li>
+                                 <p>Next.js - React</p>
+                            </li>
+                            <li>
+                            </li>
+                            <li>
+                                <a href="https://github.com/vukasin-dev/portfolio">Github</a>
+                            </li>
+                        </ul>
                     </a>
                 </div>
             </main>
