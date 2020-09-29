@@ -34,7 +34,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Contact &rarr;</h3>
-            <p>Like what you see? Contant ne here.</p>
+            <p>Like what you see? Contant me here.</p>
           </a>
 
           <a
@@ -43,7 +43,7 @@ export default function Home() {
           >
             <h3>Social Media &rarr;</h3>
             <p>
-              Feel free to add me on Facebook and follow on Instagram.
+              Add me on Facebook or LinkedIn.
             </p>
           </a>
         </div>
